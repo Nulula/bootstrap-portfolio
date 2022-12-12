@@ -1,0 +1,52 @@
+.jumbotron{
+    height: 600px;
+    background: url("/images/hero_photo.png") no-repeat center center; 
+    background-size: cover;
+}
+
+.hero-face {
+    width: 50%;
+    height: auto;
+}
+
+.icon-black {
+    color: black;
+}
+
+.border-3 {
+    border-width: 3px !important;
+}
+
+.carousel-caption {
+    background:rgba(0,0,0,0.6) !important;
+
+}
+
+a:hover { 
+    text-decoration-color: white; 
+}
+
+
+a:active { 
+    text-decoration-color: white; 
+}
+
+
+
+/* MEDIA LARGE SCREEN */
+@media screen and (min-width: 800px) {
+    .hero-face {
+        width: 20%;
+    }
+
+    .hero {
+        width: 70%;
+    }
+
+    .workArea {
+        width: 70%;
+    }
+
+
+}
+    
