@@ -1,6 +1,6 @@
 .jumbotron{
     height: 600px;
-    background: url("./images/hero_photo.jpg") no-repeat center center; 
+    background: url("https://raw.githubusercontent.com/Nulula/bootstrap-portfolio/main/images/hero_photo.jpg") no-repeat center center; 
     background-size: cover;
 }
 
