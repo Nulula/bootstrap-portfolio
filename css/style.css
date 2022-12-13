@@ -1,6 +1,6 @@
 .jumbotron{
     height: 600px;
-    background: url("/images/hero_photo.png") no-repeat center center; 
+    background: url("https://github.com/Nulula/bootstrap-portfolio/blob/main/images/hero_photo.jpg?raw=true") no-repeat center center; 
     background-size: cover;
 }
 
@@ -31,6 +31,9 @@ a:active {
     text-decoration-color: white; 
 }
 
+.contacts:hover {
+    text-shadow: 0px 0px 5px gray;
+}
 
 
 /* MEDIA LARGE SCREEN */
