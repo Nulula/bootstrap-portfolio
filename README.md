@@ -10,7 +10,7 @@ N/A
 Please find the important information about me on this webpage.
 
 **Screenshot:**  
-![screenshot of the bootstrap portfolio website] (images\screencapture.png "screenshot of bootstrap portfolio webpage" )
+![screenshot of the bootstrap portfolio website] (https://github.com/Nulula/bootstrap-portfolio/blob/main/images/screencapture.png?raw=true "screenshot of bootstrap portfolio webpage" )
 
 
 ## Credits
